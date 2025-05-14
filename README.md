@@ -1,7 +1,7 @@
 
 ## 💜 Olá, meu nome é {Mateus Eduardo}!
 
-Sou Mateus Eduardo, Desenvolvedor Júnior em formação, cursando Técnico em Desenvolvimento de Sistemas. Tenho conhecimento em tecnologias como React.js, React Native, Node.js, SQL, JavaScript, HTML5 e CSS. Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e evoluir junto a uma equipe de desenvolvimento.
+Sou Mateus Eduardo, Desenvolvedor Júnior em formação, Técnico em Desenvolvimento de Sistemas. Tenho conhecimento em tecnologias como React.js, React Native, Node.js, SQL e NOSql, JavaScript, HTML5 e CSS. Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e evoluir junto a uma equipe de desenvolvimento.
 
 Atuei por 2 anos na Prosegur como Auxiliar de Gestão de Numerário, onde adquiri experiência em rotinas administrativas, organização de dados, atendimento ao cliente e atividades de equipe. Essa vivência reforçou minhas habilidades interpessoais e minha responsabilidade em ambientes profissionais.
 
