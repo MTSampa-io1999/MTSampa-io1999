@@ -18,7 +18,15 @@ Será um prazer falar com você!
 ---
 
 ## 🚀 Minhas Skills:
+Frontend: JavaScript, TypeScript, React, Next.js, Angular, React Native
 
+Backend: Node.js, Express, NestJS, PHP, Laravel, .NET, Python, Django, GraphQL, REST APIs
+
+Databases: SQL, MySQL, MongoDB, PostgreSQL
+
+DevOps & Tools: Git, GitHub, GitLab
+
+Testes: Unit Testing, e2e Testing
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
